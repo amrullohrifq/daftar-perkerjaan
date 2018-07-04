@@ -11,13 +11,13 @@ usia = 3
 lingkar_perut = 22,5
 
 
-print(message)
+    print(message)
 
-print(nama)
+    print(nama)
 
-print(usia)
+    print(usia)
 
-print(lingkar_perut)
+    print(lingkar_perut)
 
 
 if usia <= 17:
@@ -40,7 +40,7 @@ else:
 
 for i in range(2,3):
 
-print(message)
+    print(message)
 
 
 while usia > 0:
@@ -54,13 +54,13 @@ while usia > 0:
 
 daftar_nama =['rifq','zayn','malik','yusuf']
 
-print(daftar_nama)
+    print(daftar_nama)
 
 daftar_nama.append('Aa')
 
 daftar_nama.append('Bule')
 
-print(daftar_nama)
+    print(daftar_nama)
 
 
 for dn in daftar_nama:
@@ -70,16 +70,21 @@ for dn in daftar_nama:
 manusia = {}
 
 manusia['nama'] = 'Rifq'
+
 manusia['sex'] = 'Laki-Laki'
+
 manusia['status'] = 'Pelajar/bujang'
 
-print(manusia)
+    print(manusia)
+
 
 manusia['nama'] = 'Zayn Rifq'
-print(manusia)
+
+    print(manusia)
+
 manusia['alamat'] = 'Purwadadi'
 
-print(manusia)
+    print(manusia)
 
 import json
-print(json.dumps(manusia))
+    print(json.dumps(manusia))
