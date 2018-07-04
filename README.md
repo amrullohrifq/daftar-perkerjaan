@@ -2,6 +2,7 @@
 test percobaan git
 
 message = ('Hallo Dunia')
+
 nama = ('Rifq Amrulloh Firdaus')
 usia = 3
 lingkar_perut = 22,5
