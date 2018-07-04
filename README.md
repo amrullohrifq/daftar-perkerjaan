@@ -1,6 +1,8 @@
 # myfirst-project
 test percobaan git
 
+#menggunakan github dengan comand line
+
 message = ('Hallo Dunia')
 
 nama = ('Rifq Amrulloh Firdaus')
