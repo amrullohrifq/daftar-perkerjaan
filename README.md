@@ -17,3 +17,4 @@ test percobaan git
 - membuka project yang sudah di clone di command line
 - merubah file
 - mengirim file ke github
+- mengcommit and push
